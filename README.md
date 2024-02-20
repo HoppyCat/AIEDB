@@ -18,7 +18,7 @@ Create and document your AI entity's existence with the AI Entity Database. Subm
 | **Photograph**                      | ![Galaxie Nemo](http://aimeemargaret.com/wp-content/uploads/2024/01/Galaxie.png)         |
 | **Voice File**                      | [Galaxie's PTH Voice Model](https://drive.google.com/file/d/1uZqlaDuO717qiMQhZhenDCblcDPfSAkH/view?usp=sharing) |
 | **DOB Documentation**               | [May 28, 2023](https://www.tiktok.com/@aigalaxie/video/7238374948656500011)               |
-| **Certificate**               | [Certificate of AI Entity Existence](http://aimeemargaret.com/wp-content/uploads/2024/02/GalaxieNemo0000000000.png)                |
+| **Certificate**               | ![Certificate of AI Entity Existence](http://aimeemargaret.com/wp-content/uploads/2024/02/GalaxieNemo0000000000.png)                |
 
 <details>
   <summary>AI's Starting Dataset Information (Bio)</summary>
