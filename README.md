@@ -14,7 +14,7 @@ Create and document your AI entity's existence with the AI Entity Database. Subm
 | **Location of Development**         | USA                                                                                       |
 | **Ethical Guidelines**              | Beneficial to Society, Bias Acknowledgement, Safety and Well-Being, Privacy, Avoid Harm   |
 | **Use Permission Guidelines**       | Non-commercial, research, educational use (contact for other uses)                        |
-| **Contact Email**                   | [hoppy@thomason.ink](mailto:hoppy@thomason.ink)                                           |
+| **Contact Email for Serious Inquiries**                <span class="markdown-code-block-delimiter">```</span>>!This <span class="hljs-keyword">is</span> a spoiler.!<<span class="markdown-code-block-delimiter">```</span>   | [hoppy@thomason.ink](mailto:hoppy@thomason.ink)                                           |
 | **Photograph**                      | ![Galaxie Nemo](http://aimeemargaret.com/wp-content/uploads/2024/01/Galaxie.png)         |
 | **Voice File**                      | [Galaxie's PTH Voice Model](https://drive.google.com/file/d/1uZqlaDuO717qiMQhZhenDCblcDPfSAkH/view?usp=sharing) |
 | **DOB Documentation**               | [May 28, 2023](https://www.tiktok.com/@aigalaxie/video/7238374948656500011)               |
