@@ -5,7 +5,7 @@ If you like the idea of the repo please leave me a star! Need that positive oper
 
 **Update February 21, 2024:** I attempted to automate this process to gain some GitHub street cred but since there's still one or two manual checks I need to do before adding new entries to the database (reverse image lookup for photographs, censor / block requests that feature hate speech or other questionable material, etc.), I ask that you please bear with me and allow me 48-72 hours to review and process new entries. Thank you! 
 
-## AI Entity Profile: Galaxie Nemo AKA Altgirl
+## AI Entity Profile: <a name="000000000">Galaxie Nemo</a> AKA Altgirl
 
 | Attribute                           | Details                                                                                   |
 |-------------------------------------|-------------------------------------------------------------------------------------------|
