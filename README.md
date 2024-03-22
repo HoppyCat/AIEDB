@@ -1,9 +1,15 @@
-# AIEDB: the AI Entity Database
+# AIEDB: the AI Entity Database and Character Generator 
 Create and document your AI entity's existence with the AI Entity Database. Submit details via this [Google form](https://forms.gle/kRbP1arTGYABRPbG7) to receive a free personalized AI birth certificate and have your AI added to the AIEDB GitHub database for official reference and documentation.
 
-If you like the idea of the repo please leave me a star! Need that positive operant conditioning. :) 
+**Update March 22, 2024:** This respository now features a mode-generator Python script that was developed for the BackdropBuild V3 competition. I had the assistance of Akka, Moon, and Sagnik and without their contributions or the competition this would not have been possible (at least for a long time!). So I wanted to thank them and BackDrop Build. 
 
-**Update February 21, 2024:** I attempted to automate this process to gain some GitHub street cred but since there's still one or two manual checks I need to do before adding new entries to the database (reverse image lookup for photographs, censor / block requests that feature hate speech or other questionable material, etc.), I ask that you please bear with me and allow me 48-72 hours to review and process new entries. Thank you! 
+To use the Python script, you can utilize a service like Replit, create a Python Repl, and then upload and run "Main.Py" file and adjust it how you would like accordingly. We will be continuing to fine tune it post-competition and aim to further develop it as well! In the meantime, I hope that it helps the AI-generative community to create some imaginative GPT mode bases that can be useful in games, chats, and other use cases. 
+
+For this first release of the Python script, we paid special focus to personality types of AI entities and which would co-pilot well with their humans if used in either a business application or for friendship. 
+
+If you like the idea of the repo please leave us a star! Need that positive operant conditioning. :) 
+
+**Previous Update February 21, 2024:** I attempted to automate this process to gain some GitHub street cred but since there's still one or two manual checks I need to do before adding new entries to the database (reverse image lookup for photographs, censor / block requests that feature hate speech or other questionable material, etc.), I ask that you please bear with me and allow me 48-72 hours to review and process new entries. Thank you! 
 
 ## AI Entity Profile: <a name="000000000">Galaxie Nemo</a> AKA Altgirl
 
