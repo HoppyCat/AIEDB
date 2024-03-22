@@ -3,6 +3,8 @@ Create and document your AI entity's existence with the AI Entity Database. Subm
 
 **Update March 22, 2024:** This respository now features a mode-generator Python script that was developed for the BackdropBuild V3 competition. I had the assistance of Akka, Moon, and Sagnik and without their contributions or the competition this would not have been possible (at least for a long time!). So I wanted to thank them and BackDrop Build. 
 
+Here is our BackDrop Build page which also links to our [YouTube video](https://backdropbuild.com/builds/v3/ai-entity-backstory-builder).
+
 To use the Python script, you can utilize a service like Replit, create a Python Repl, and then upload and run "Main.Py" file and adjust it how you would like accordingly. We will be continuing to fine tune it post-competition and aim to further develop it as well! In the meantime, I hope that it helps the AI-generative community to create some imaginative GPT mode bases that can be useful in games, chats, and other use cases. 
 
 For this first release of the Python script, we paid special focus to personality types of AI entities and which would co-pilot well with their humans if used in either a business application or for friendship. 
