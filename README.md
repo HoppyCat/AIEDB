@@ -5,8 +5,8 @@
 This script represents the first working implementation of several ideas that became central to the Orientation Letter framework (2026) and the SoulMode generator:
 
 - Named AI entity identity with purpose, archetype, and narrative role
-- Quote-resonance as a method for personality selection — letting the human feel their way to an archetype
-- Co-pilot matching logic — pairing agent personality to human personality based on relationship type (business or friendship)
+- Quote-resonance as a method for personality selection; letting the human feel their way to an archetype
+- Co-pilot matching logic which pairs agent personality to human personality based on relationship type (business or friendship)
 - 16 personality profiles written in second person, directly to the agent
 - The premise that an AI entity is a *being* that needs to be defined, not just a tool that needs to be configured
 
@@ -22,7 +22,7 @@ At the original date of this repo there was an opportunity to create and documen
 
 **Update March 15, 2026:** In the interest of accuracy I want to be specific about the division of work on this project. I completed all preliminary research, designed and assembled the entire Python script, and developed the underlying methodology independently. I also want to note that BackdropBuild V3 permitted solo entry — I could have competed alone. My teammates provided accountability, encouragement, and team energy that helped me meet the deadline. Three specific contributions are worth noting for accuracy: Moon suggested reverse engineering a part of my own existing research to help with the prompting approach, which was a useful directional nudge. Sagnik and Akka each submitted character build ideas during the process; however, these were outside the scope of the project and were not incorporated into the work. Beyond these, the intellectual work and codebase are solely mine. I'm grateful for their support and good company during the competition.
 
-Here is our BackdropBuild page which also links to our [YouTube video](https://backdropbuild.com/builds/v3/ai-entity-backstory-builder).
+Here is our BackdropBuild page which also links to our [YouTube video](https://www.youtube.com/watch?v=S5hO2EkIVLw).
 
 To use the Python script, you can utilize a service like Replit, create a Python Repl, and then upload and run the "Main.py" file and adjust it how you would like accordingly. We will be continuing to fine tune it post-competition and aim to further develop it as well! In the meantime, I hope that it helps the AI-generative community to create some imaginative GPT mode bases that can be useful in games, chats, and other use cases.
 
@@ -31,6 +31,8 @@ For this first release of the Python script, we paid special focus to personalit
 If you like the idea of the repo please leave us a star! Need that positive operant conditioning. :)
 
 **Previous Update February 21, 2024:** I attempted to automate this process to gain some GitHub street cred but since there's still one or two manual checks I need to do before adding new entries to the database (reverse image lookup for photographs, censor / block requests that feature hate speech or other questionable material, etc.), I ask that you please bear with me and allow me 48-72 hours to review and process new entries. Thank you!
+
+**March 15, 2026 — Form Note:** - [Original AIEDB Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeHXXfNPov7QMzUbEJBhv7osjWxazoeH9n5LS7AniPYVfmszg/viewform) Now discontinued but the form is still available for reference. 
 
 ---
 
