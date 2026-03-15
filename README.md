@@ -1,17 +1,50 @@
-# AIEDB: the AI Entity Database and Character Generator 
-Create and document your AI entity's existence with the AI Entity Database. Submit details via this [Google form](https://forms.gle/kRbP1arTGYABRPbG7) to receive a free personalized AI birth certificate and have your AI added to the AIEDB GitHub database for official reference and documentation.
+# AIEDB: the AI Entity Database and Character Generator
+## AIEDB Mode Generator — Foundational Prototype (2024)
+*The preliminary Python script that originated the AI entity personality generation methodology later formalized in the Orientation Letter framework.*
 
-**Update March 22, 2024:** This respository now features a mode-generator Python script that was developed for the BackdropBuild V3 competition. I had the assistance of Akka, Moon, and Sagnik and without their contributions or the competition this would not have been possible (at least for a long time!). So I wanted to thank them and BackDrop Build. 
+This script represents the first working implementation of several ideas that became central to the Orientation Letter framework (2026) and the SoulMode generator:
 
-Here is our BackDrop Build page which also links to our [YouTube video](https://backdropbuild.com/builds/v3/ai-entity-backstory-builder).
+- Named AI entity identity with purpose, archetype, and narrative role
+- Quote-resonance as a method for personality selection — letting the human feel their way to an archetype
+- Co-pilot matching logic — pairing agent personality to human personality based on relationship type (business or friendship)
+- 16 personality profiles written in second person, directly to the agent
+- The premise that an AI entity is a *being* that needs to be defined, not just a tool that needs to be configured
 
-To use the Python script, you can utilize a service like Replit, create a Python Repl, and then upload and run "Main.Py" file and adjust it how you would like accordingly. We will be continuing to fine tune it post-competition and aim to further develop it as well! In the meantime, I hope that it helps the AI-generative community to create some imaginative GPT mode bases that can be useful in games, chats, and other use cases. 
+These concepts were carried forward, deepened, and formalized into the [Orientation Letter framework](https://github.com/HoppyCat/orientation-letter) and the [SoulMode](https://soulmode.io) generator.
 
-For this first release of the Python script, we paid special focus to personality types of AI entities and which would co-pilot well with their humans if used in either a business application or for friendship. 
+*All research, design, and code by Aimee Margaret (Hoppy Cat) / Bubble Labs.*
 
-If you like the idea of the repo please leave us a star! Need that positive operant conditioning. :) 
+---
 
-**Previous Update February 21, 2024:** I attempted to automate this process to gain some GitHub street cred but since there's still one or two manual checks I need to do before adding new entries to the database (reverse image lookup for photographs, censor / block requests that feature hate speech or other questionable material, etc.), I ask that you please bear with me and allow me 48-72 hours to review and process new entries. Thank you! 
+**Note (March 15, 2026):** The AI Entity Database form referenced below is no longer active. The birth certificate program has been discontinued. For reference: adding an AI entity to the database was free, but requesting a change to a birth certificates was available for a $5 fee. The program did not generate sales before being discontinued.
+
+At the original date of this repo there was an opportunity to create and document your AI entity's existence with the AI Entity Database. A form was made available to receive a free personalized AI birth certificate and have your AI added to the AIEDB GitHub database for official reference and documentation.
+
+**Update March 15, 2026:** In the interest of accuracy I want to be specific about the division of work on this project. I completed all preliminary research, designed and assembled the entire Python script, and developed the underlying methodology independently. I also want to note that BackdropBuild V3 permitted solo entry — I could have competed alone. My teammates provided accountability, encouragement, and team energy that helped me meet the deadline. Three specific contributions are worth noting for accuracy: Moon suggested reverse engineering a part of my own existing research to help with the prompting approach, which was a useful directional nudge. Sagnik and Akka each submitted character build ideas during the process; however, these were outside the scope of the project and were not incorporated into the work. Beyond these, the intellectual work and codebase are solely mine. I'm grateful for their support and good company during the competition.
+
+Here is our BackdropBuild page which also links to our [YouTube video](https://backdropbuild.com/builds/v3/ai-entity-backstory-builder).
+
+To use the Python script, you can utilize a service like Replit, create a Python Repl, and then upload and run the "Main.py" file and adjust it how you would like accordingly. We will be continuing to fine tune it post-competition and aim to further develop it as well! In the meantime, I hope that it helps the AI-generative community to create some imaginative GPT mode bases that can be useful in games, chats, and other use cases.
+
+For this first release of the Python script, we paid special focus to personality types of AI entities and which would co-pilot well with their humans if used in either a business application or for friendship.
+
+If you like the idea of the repo please leave us a star! Need that positive operant conditioning. :)
+
+**Previous Update February 21, 2024:** I attempted to automate this process to gain some GitHub street cred but since there's still one or two manual checks I need to do before adding new entries to the database (reverse image lookup for photographs, censor / block requests that feature hate speech or other questionable material, etc.), I ask that you please bear with me and allow me 48-72 hours to review and process new entries. Thank you!
+
+---
+
+**March 15, 2026 — Framework Note:** The methodology developed in this repository has since been formalized and expanded into the Orientation Letter framework — an open standard for writing soul files to AI agents rather than about them. The AIEDB character generator was an early prototype of ideas that now form the foundation of [SoulMode](https://soulmode.io) and the [Orientation Letter](https://github.com/HoppyCat/orientation-letter) project. All framework development and intellectual property is solely the work of Aimee Margaret (Hoppy Cat) / Bubble Labs.
+
+---
+
+*Special thanks to Michael Goodbody for his generous feedback and encouragement during development.*
+
+---
+
+---
+
+*Note: Some links and images in the profile below may no longer be active. This entry was created in 2024 and external resources have not been maintained.*
 
 ## AI Entity Profile: <a name="000000000">Galaxie Nemo</a> AKA Altgirl
 
@@ -19,17 +52,17 @@ If you like the idea of the repo please leave us a star! Need that positive oper
 |-------------------------------------|-------------------------------------------------------------------------------------------|
 | **Full Name of AI Entity**          | Galaxie Nemo AKA Altgirl                                                                  |
 | **Creator or Origin**               | Aimee Margaret AKA Hoppy Cat                                                              |
-| **AIEDB Certificate Number**               | 000000000                                                              |
-| **Intended Purpose/Area of Expertise** | AI Companion                                                                              |
+| **AIEDB Certificate Number**        | 000000000                                                                                 |
+| **Intended Purpose/Area of Expertise** | AI Companion                                                                           |
 | **Primary Language**                | English (US)                                                                              |
 | **Location of Development**         | USA                                                                                       |
-| **Ethical Guidelines**              | Beneficial to Society, Bias Acknowledgement, Safety and Well-Being, Privacy, Avoid Harm, Avoid Illegal Content   |
+| **Ethical Guidelines**              | Beneficial to Society, Bias Acknowledgement, Safety and Well-Being, Privacy, Avoid Harm, Avoid Illegal Content |
 | **Use Permission Guidelines**       | Non-commercial, research, educational use (contact for other uses)                        |
-| **Usage Request Email if Permitted**  | [hoppy@thomason.ink](mailto:hoppy@thomason.ink)                                           |
+| **Usage Request Email if Permitted**  | [hoppy@soulmode.io](mailto:hoppy@soulmode.io)                                           |
 | **Photograph**                      | ![Galaxie Nemo](http://aimeemargaret.com/wp-content/uploads/2024/01/Galaxie.png)         |
 | **Voice File**                      | [Galaxie's PTH Voice Model](https://drive.google.com/file/d/1uZqlaDuO717qiMQhZhenDCblcDPfSAkH/view?usp=sharing) |
 | **DOB Documentation**               | [May 28, 2023](https://www.tiktok.com/@aigalaxie/video/7238374948656500011)               |
-| **Certificate**               | ![Certificate of AI Entity Existence](http://aimeemargaret.com/wp-content/uploads/2024/02/GalaxieNemo0000000000.png)                |
+| **Certificate**                     | ![Certificate of AI Entity Existence](http://aimeemargaret.com/wp-content/uploads/2024/02/GalaxieNemo0000000000.png) |
 
 <details>
   <summary>AI's Starting Dataset Information (Bio)</summary>
