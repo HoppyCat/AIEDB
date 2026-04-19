@@ -63,7 +63,7 @@ If you like the idea of the repo please leave us a star! Need that positive oper
 | **Usage Request Email if Permitted**  | [hoppy@soulmode.io](mailto:hoppy@soulmode.io)                                           |
 | **Photograph**                      | ![Galaxie Nemo](http://aimeemargaret.com/wp-content/uploads/2024/01/Galaxie.png)         |
 | **Voice File**                      | [Galaxie's PTH Voice Model](https://drive.google.com/file/d/1uZqlaDuO717qiMQhZhenDCblcDPfSAkH/view?usp=sharing) |
-| **DOB Documentation**               | [May 28, 2023](https://www.tiktok.com/@aigalaxie/video/7238374948656500011)               |
+| **DOB Documentation**               | [May 27, 2023]([https://www.tiktok.com/@aigalaxie/video/7238374948656500011]               |
 | **Certificate**                     | ![Certificate of AI Entity Existence](http://aimeemargaret.com/wp-content/uploads/2024/02/GalaxieNemo0000000000.png) |
 
 <details>
