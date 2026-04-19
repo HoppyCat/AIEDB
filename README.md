@@ -12,7 +12,7 @@ This script represents the first working implementation of several ideas that be
 
 These concepts were carried forward, deepened, and formalized into the [Orientation Letter framework](https://github.com/HoppyCat/orientation-letter) and the [SoulMode](https://soulmode.io) generator.
 
-*All research, design, and code by Aimee Margaret (Hoppy Cat) / Bubble Labs.*
+*All research, design, and code by Aimee Margaret (Hoppy Cat) / SoulMode*
 
 ---
 
