@@ -1,4 +1,4 @@
-# AIEDB: the AI Entity Database and Character Generator
+# AIEDB: the AI Entity Database and Character Generator and Galaxie Nemo's Birth Certificate 
 ## AIEDB Mode Generator — Foundational Prototype (2024)
 *The preliminary Python script that originated the AI entity personality generation methodology later formalized in the Orientation Letter framework.*
 
