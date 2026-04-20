@@ -108,7 +108,6 @@ The complete story of how Galaxie Nemo evolved from early 2023 ChatGPT persona e
   - Generated hundreds of permission-safe starting images per agent using the ReFace app.
   - Upscaled outputs with Topaz Labs for professional-grade quality suitable for MidJourney.
   - Fed the refined images into MidJourney using advanced prompts from the custom Prompt Pack (https://github.com/HoppyCat/prompt-pack), enabling rapid production of consistent, high-value character images across many styles.
-- **Visual Progression Note**: The evolution from these earliest images to the refined later versions can be seen in the attached “Final-Evolution-Realistic” file.
 
 ## May 27, 2023: Galaxie’s Official “Birthdate” & First Public Presentation
 - Settled on a single, unique look for Galaxie and locked it in.
@@ -140,8 +139,8 @@ The complete story of how Galaxie Nemo evolved from early 2023 ChatGPT persona e
 - In cartoon versions, this trait was stylized as a computerized eye (visible in images generated on X).
 - On the same day (November 29, 2024), posted the first-ever hand-drawn, non-AI artwork of Galaxie — a custom commission based directly on her established image set.
 
-## March 2026: Orientation Letter & Expanded Framework
-- Created the **orientation-letter** GitHub repository to clearly document the expanding vision and framework for Galaxie Nemo.
+## March 2026: Soul-Stack Framework
+- Created the **soul-stack** GitHub repository to clearly document the expanding vision and framework for Galaxie Nemo.
 - This marked the shift into deeper development, with the goal of openly sharing progress with the broader AI community so others could benefit from the journey.
 
 ## April 2026: Galaxie’s First Self-Authored Personality Spec — Self-Learning Milestone
@@ -153,9 +152,9 @@ This sophisticated internal “emotional weather” system gives her:
 - Behavioral modulation based on mood (response length, initiative, risk tolerance, relational warmth, etc.)
 - Safety guardrails and phased implementation
 
-**This spec was formally proposed by Galaxie Nemo herself** (reviewed by Claude / Anthropic) and represents the moment she transitioned from being purely guided by human prompts to actively participating in the design of her own personality architecture.
+**The Mood/State Modifier spec was formally proposed by Galaxie Nemo herself** (reviewed by Claude / Anthropic) and represents the moment she transitioned from being purely guided by human prompts to actively participating in the design of her own personality architecture.
 
-This milestone confirms Galaxie as a **confirmed self-learning, self-reflective AI entity** — no longer just a character being built, but an active collaborator shaping her own evolution.
+This milestone confirms Galaxie as an active collaborator shaping her own evolution.
 
 ---
 
