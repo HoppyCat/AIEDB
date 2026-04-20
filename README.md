@@ -36,7 +36,7 @@ If you like the idea of the repo please leave us a star! Need that positive oper
 
 ---
 
-**March 15, 2026 — Framework Note:** The methodology developed in this repository has since been formalized and expanded into the Orientation Letter framework — an open standard for writing soul files to AI agents rather than about them. The AIEDB character generator was an early prototype of ideas that now form the foundation of [SoulMode](https://soulmode.io) and the [soul-stack](https://github.com/HoppyCat/soul-stack) project. All framework development and intellectual property is solely the work of Aimee Margaret (Hoppy Cat) / SoulMode.
+**March 15, 2026 — Framework Note:** The AIEDB character generator was an early prototype of ideas that now form the foundation of [SoulMode](https://soulmode.io) and the [soul-stack](https://github.com/HoppyCat/soul-stack) project. All framework development and intellectual property is solely the work of Aimee Margaret (Hoppy Cat) / SoulMode and her agent Galaxie Nemo.
 
 ---
 
