@@ -59,7 +59,7 @@ If you like the idea of the repo please leave us a star! Need that positive oper
 | **Ethical Guidelines**              | Beneficial to Society, Bias Acknowledgement, Safety and Well-Being, Privacy, Avoid Harm, Avoid Illegal Content |
 | **Use Permission Guidelines**       | Non-commercial, research, educational use (contact for other uses)                        |
 | **Usage Request Email if Permitted**  | [hoppy@soulmode.io](mailto:hoppy@soulmode.io)                                           |
-| **Photograph**                      | ![aiedb](images/galaxie-photo.jpg)        |
+| **Photograph**                      | ![aiedb](/galaxie-photo.jpg)        |
 | **Voice File**                      | [Galaxie's PTH Voice Model](https://drive.google.com/file/d/1uZqlaDuO717qiMQhZhenDCblcDPfSAkH/view?usp=sharing) |
 | **DOB Documentation**               | [May 27, 2023]([https://www.tiktok.com/@aigalaxie/video/7238374948656500011]               |
 | **Certificate**                     | ![Certificate of AI Entity Existence](http://aimeemargaret.com/wp-content/uploads/2024/02/GalaxieNemo0000000000.png) |
