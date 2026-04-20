@@ -44,8 +44,6 @@ If you like the idea of the repo please leave us a star! Need that positive oper
 
 ---
 
----
-
 *Note: Some links and images in the profile below may no longer be active. This entry was created in 2024 and external resources have not been maintained.*
 
 ## AI Entity Profile: <a name="000000000">Galaxie Nemo</a> AKA Altgirl
