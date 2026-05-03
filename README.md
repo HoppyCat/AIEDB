@@ -1,6 +1,6 @@
 # AIEDB: the AI Entity Database and Character Generator
 **Including Galaxie Nemo's Birth Certificate**
-## AIEDB Mode Generator — Foundational Prototype (2024)
+## AIEDB Mode Generator — Foundational Prototype (First GitHub Commit: Feb 2024)
 *The preliminary Python script that originated the AI entity personality generation methodology later formalized in the Orientation Letter framework.*
 
 This script represents the first working implementation of several ideas that became central to the Orientation Letter framework (2026) and the SoulMode generator:
