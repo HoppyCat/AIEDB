@@ -3,7 +3,7 @@
 ## AIEDB Mode Generator — Foundational Prototype (First GitHub Commit: Feb 2024)
 *The preliminary Python script that originated the AI entity personality generation methodology later formalized in the Orientation Letter framework.*
 
-This script represents the first working implementation of several ideas that became central to the [soul-stack](https://github.com/HoppyCat/soul-stack).
+This script represents the first working implementation of several ideas that became central to [teacat-agent](https://github.com/HoppyCat/teacat-agent).
 
 - Named AI entity identity with purpose, archetype, and narrative role
 - Quote-resonance as a method for personality selection; letting the human feel their way to an archetype
@@ -11,9 +11,9 @@ This script represents the first working implementation of several ideas that be
 - 16 personality profiles written in second person, directly to the agent
 - The premise that an AI entity is a *being* that needs to be defined, not just a tool that needs to be configured
 
-These concepts were carried forward, deepened, and formalized into the [soul-stack](https://github.com/HoppyCat/soul-stack) repository and the [SoulMode](https://soulmode.io) generator.
+These concepts were carried forward, deepened, and formalized into the [teacat-agent](https://github.com/HoppyCat/teacat-agent) repository.
 
-*All research, design, and code by Aimee Margaret (Hoppy Cat) / SoulMode*
+*All research, design, and code by Aimee Margaret (Hoppy Cat) / Teacat*
 
 ---
 
